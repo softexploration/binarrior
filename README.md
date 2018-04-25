@@ -1,5 +1,5 @@
 # Binarrior
-The Character of the game is Binarrior. Binarrior is a kind of warrior living in a binary world.
+The Character of the game is Binarrior. Binarrior is a kind of warrior living in the binary world.
 
 ## Build process:
 1. Go the main directory of the maven project.
@@ -11,7 +11,9 @@ The Character of the game is Binarrior. Binarrior is a kind of warrior living in
 
 ## Usage:
 Use menu commands and confirm with Enter. E.g. to create new character type: 
+
 :1
+
 Confirm with Enter.
 
 Enjoy the game!
